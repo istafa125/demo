@@ -1,3 +1,3 @@
 # demo
 first one
-Authot - istafa 
+Author - istafa 
